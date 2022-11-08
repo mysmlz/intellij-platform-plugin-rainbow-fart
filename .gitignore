@@ -1,0 +1,10 @@
+.gradle
+.idea
+.qodana
+build
+.run
+.idea
+target
+out
+.github
+.gitee
